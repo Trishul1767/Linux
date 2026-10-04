@@ -2,4 +2,4 @@ pwd - To check the current directory
 ls - To list all the things in the directory
 cd - To change the directory
 cd .. - To up a directory
-cd ../.. - T
+cd ../.. - To up two directories at a time
