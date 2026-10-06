@@ -4,4 +4,4 @@ cd - To change the directory
 cd .. - To up a directory
 cd ../.. - To up two directories at a time
 mkdir - To make a directory
-touch -
+touch - To make a file.
