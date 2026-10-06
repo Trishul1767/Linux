@@ -5,4 +5,4 @@ cd .. - To up a directory
 cd ../.. - To up two directories at a time
 mkdir - To make a directory
 touch - To make a file
-ls -l(-l for long format)
+ls -l - (-l for long format)
