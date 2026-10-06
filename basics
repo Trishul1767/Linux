@@ -3,4 +3,4 @@ ls - To list all the things in the directory
 cd - To change the directory
 cd .. - To up a directory
 cd ../.. - To up two directories at a time
-mkdir - To /make a directory
+mkdir - To make a directory
