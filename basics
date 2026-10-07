@@ -5,5 +5,5 @@ cd .. - To up a directory
 cd ../.. - To up two directories at a time
 mkdir - To make a directory
 touch - To make a file
-ls -l - We get things like permissions, owner, size, and date.(-l for long format)
-ls - a - shows all the hidden files(-a for all)
+ls -l - We get things like permissions, owner, size, and date(-l for long format)
+ls - a - Shows all the hidden files(-a for all)
