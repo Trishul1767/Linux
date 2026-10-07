@@ -6,4 +6,4 @@ cd ../.. - To up two directories at a time
 mkdir - To make a directory
 touch - To make a file
 ls -l - We get things like permissions, owner, size, and date.(-l for long format)
-ls - a 
+ls - a (-a for all)
