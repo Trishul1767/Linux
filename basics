@@ -1,6 +1,6 @@
 pwd - To check the current directory
 ls - To list all the things in the current directory
-cd - To change the directory(if we just type in the first unique letters and press tab it will automatically types it inn)
+cd - To change the directory (if we just type in the first unique letters and press tab it will automatically types it inn)
 cd .. - To up a directory
 cd ../.. - To up two directories at a time
 mkdir - To make a directory
