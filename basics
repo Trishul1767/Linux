@@ -8,3 +8,4 @@ touch - To make a file
 ls -l - We get things like permissions, owner, size, and date (-l for long format)
 ls - a - Shows all the hidden files (-a for all)
 ls - la - Lists everything, including hidden files, in long format (-la is essentially -l and -a)
+ls 
