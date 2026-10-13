@@ -11,4 +11,4 @@ ls - la - Lists everything, including hidden files, in long format (-la is essen
 ls -r - lists in reverse order(ls --reverse)
 cat - to access the txt file
 
-whoami = it gives the user 
+whoami = it gives the name of the user/device
