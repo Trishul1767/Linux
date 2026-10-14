@@ -13,3 +13,4 @@ ls -r - lists in reverse order(ls --reverse)
 cat - to access the data in the txt file
 
 whoami = it gives the name of the user/device
+nano - T
