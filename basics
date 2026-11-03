@@ -20,4 +20,4 @@ explorer.exe - To open an image/png file
 su - To access as root
 
 >> sudo service postgresql start - To start the postgresql
->> sudo -u postgres psql To get into the console
+>> sudo -u postgres psql - To get into the console
