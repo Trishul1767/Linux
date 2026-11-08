@@ -1,4 +1,5 @@
 sudo service postgresql start - To start the postgresql
 sudo -u postgres psql - To get into the console
 CREATE DATABASE career_db; - To create a database
-sudo -u postgres psql -d career_db
+sudo -u postgres psql -d career_db - This opens psql and connects directly to the created career_db.
+
