@@ -4,3 +4,4 @@ CREATE DATABASE career_db; - To create a database
 sudo -u postgres psql -d career_db - This opens psql and connects directly to the created career_db.
 
 Now, write the sql commands
+commit
