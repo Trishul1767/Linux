@@ -5,4 +5,4 @@ sudo -u postgres psql -d career_db - This opens psql and connects directly to th
 
 Now, write the sql commands
 commit
-\q
+\q to exit
