@@ -3,6 +3,6 @@ sudo -u postgres psql - To get into the console
 CREATE DATABASE career_db; - To create a database
 sudo -u postgres psql -d career_db - This opens psql and connects directly to the created career_db.
 
-Now, type the sql commands
+Now, type in the sql commands
 commit
 \q to exit
